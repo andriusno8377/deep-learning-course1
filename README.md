@@ -1,6 +1,6 @@
 # deep-learning-course1
 asdf
-# Sample Story
+# Jokia istorija nera paprasta
 
 ## Overview
 
